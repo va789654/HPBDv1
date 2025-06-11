@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Nhớ ấn vào bức thư ạ" //Lời mở đầu cho bức thư
-const mainContentLetter = "Happy New Year HLU30" //Nội dung của bức thư
+const contentLetterSrart_actived = "Ân vào hộp quà và cái thư" //Lời mở đầu cho bức thư
+const mainContentLetter = "Chúc A+ TTHCM" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
